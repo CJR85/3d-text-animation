@@ -66,3 +66,8 @@ body {
   font-style: initial;
   color: #000;
 }
+
+.container .box span i:nth-child(3) {
+  font-style: initial;
+  color: #07770dcc;
+}
